@@ -4,7 +4,7 @@ import api from "./api";
 
 export const getEvents = async () => {
   try {
-    const response = await api.get("http://localhost:3001/api/events");
+    const response = await api.get("https://event-management-system-h5k6.onrender.com/api/events");
     return response?.data?.data?.map((event) => ({
       ...event,
       image: event.imageUrl,
