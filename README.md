@@ -37,4 +37,23 @@ For testing purposes, you can use the following credentials:
 
 ---
 
+## **API Documentation Screenshots**
+Below are screenshots of API endpoints tested in Postman:
+
+### Authentication Endpoints
+![Auth Login](./screenshots/LoginUser.jpeg)
+![Auth Register](./screenshots/RegisterUser.jpeg)
+
+### Event Endpoints
+![Get Events](./screenshots/getAllEvents.jpeg)
+![Create Event](./screenshots/createEvent.jpeg)
+![Update Event](./screenshots/updateEvent.jpeg)
+![Delete Event](./screenshots/deleteEvent.jpeg)
+
+### User Endpoints
+![User Profile](./screenshots/getProfile.jpeg)
+![Update Preferences](./screenshots/updatePreferences.jpeg)
+
+---
+
 ## **Installation Instructions**  

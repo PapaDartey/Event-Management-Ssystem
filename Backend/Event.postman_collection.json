@@ -128,7 +128,7 @@
 								}
 							}
 						},
-						"url": "http://localhost:3001/api/auth/reset-password/8305d80af9f58f3b597773111422a09529719e2f6f8971a2601ca3f3681fc7b4"
+						"url": "https://event-management-system-h5k6.onrender.com/api/auth/reset-password/8305d80af9f58f3b597773111422a09529719e2f6f8971a2601ca3f3681fc7b4"
 					},
 					"response": []
 				}
@@ -372,7 +372,7 @@
 		},
 		{
 			"key": "base_url",
-			"value": "http://localhost:3001"
+			"value": "https://event-management-system-h5k6.onrender.com"
 		}
 	]
 }
